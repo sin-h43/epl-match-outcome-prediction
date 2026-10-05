@@ -1,4 +1,4 @@
-# EPL Match Outcome Prediction (Win / Draw / Loss) — UE24CS352A Machine Learning Mini-Project
+# Gaining a Statistical Edge in Soccer Prediction using Machine Learning: Role of Meta Statistics in Match Prediction
 
 **Team**
 | Member | SRN |
